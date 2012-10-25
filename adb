@@ -1,0 +1,1 @@
+/home/saramak/perforce/ct/devenv/main/Linux/Android/sdk/platform-tools/adb
